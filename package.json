@@ -1,0 +1,9 @@
+{
+  "name": "adc-status",
+  "version": "0.0.1",
+  "dependencies": {
+    "redis": "*",
+    "hiredis": "*",
+    "node.io": "*"
+  }
+}
